@@ -614,7 +614,7 @@ def _write_methodology_page(pdf: PdfPages) -> None:
         0.06, 0.135,
         "Leon Wilkinson\n"
         "leon.wilkinson98@hotmail.co.uk   ·   07581 033 453\n"
-        "Runnable end-to-end. Full source available on request (MIT licence).\n"
+        "Source: github.com/Leonw98/ea_wqa_audit (MIT licence).\n"
         "Reusable data-quality work sample, April 2026.",
         fontsize=10.5, color=BODY_TEXT, va="top", linespacing=1.55,
     )
